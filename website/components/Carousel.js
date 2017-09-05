@@ -23,7 +23,7 @@ class Demo extends Component {
       <div
         style={{
           background: item.color,
-          height: '10em',
+          height: '100em',
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
